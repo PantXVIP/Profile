@@ -1,3 +1,9 @@
+## Hi there, I'm ExceptionalCode <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"  width="50" height="50"> 
+
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exceptionalcodex" /> 
+ </a>
+
 - 👋 Hi, I’m ExceptionalCode Developer
  - 👀 I’m interested in ...
  - 🌱 I’m currently learning ... 
